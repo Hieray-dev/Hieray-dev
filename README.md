@@ -38,10 +38,6 @@
 
 ###
 
-![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hieray-dev&show_icons=true&theme=vue-dark)
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
