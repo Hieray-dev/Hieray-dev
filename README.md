@@ -67,7 +67,3 @@
 <img src="https://img.shields.io/badge/Blue_Archive-00A3FF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Wuthering_Waves-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Honkai:_Star_Rail-000000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Valorant-FF0000?style=for-the-badge&logoColor=white" />
 
 ---
-<div align="center">
-  <img src="trophy.svg" alt="GitHub Profile Trophies" />
-</div>
-
