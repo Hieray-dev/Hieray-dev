@@ -35,7 +35,7 @@
   
   <!-- Streak Stats (URL Baru) -->
   <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fyonietz&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hieray-dev&theme=radical" alt="GitHub Profile Summary" />
 </p>
   
   <!-- Top Languages -->
