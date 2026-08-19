@@ -30,15 +30,22 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true" alt="GitHub stats" />
   <br /><br />
   
-  <!-- Streak Stats (Sudah diperbaiki URL servernya) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=one_dark_pro&hide_border=false" alt="Streak graph" />
+  <!-- Streak Stats (URL Baru) -->
+  <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=one_dark_pro&hide_border=false" alt="Streak graph" />
   <br /><br />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact" alt="Top languages" />
+</div>
+
+###
+
+<!-- Trophy (URL Direct Vercel API) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hieray-dev&theme=dracula" alt="GitHub Profile Trophies" />
 </div>
 
 ###
