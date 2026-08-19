@@ -39,6 +39,12 @@
 </p>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
+</p>
+
+
 ###
 
 <picture data-importer="pacman">
