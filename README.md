@@ -29,11 +29,16 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=one_dark_pro&hide_border=false" alt="Streak graph" />
+  
+  <!-- Streak Stats (Sudah diperbaiki URL servernya) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=one_dark_pro&hide_border=false" alt="Streak graph" />
   <br /><br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </div>
 
 ###
