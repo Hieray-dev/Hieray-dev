@@ -33,6 +33,9 @@
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=one_dark_pro&hide_border=false" alt="Streak graph" />
   <br /><br />
+  <div align="center">
+    <img src="trophy.svg" alt="GitHub Profile Trophies" />
+  </div>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top languages" />
 </div>
 
