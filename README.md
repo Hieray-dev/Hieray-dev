@@ -31,6 +31,11 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true" alt="GitHub stats" />
   <br /><br />
+
+  <p align="center">
+  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
+</p>
   
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact" alt="Top languages" />
 
@@ -38,12 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hieray-dev&theme=radical" alt="GitHub Profile Summary" />
 </p>
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
-</p>
-
 
 ###
 
