@@ -29,24 +29,14 @@
 ## GitHub Statistics
 
 <div align="center">
-  <!-- Stats Card -->
   <img src="https://github-readme-stats.shion.dev/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true" alt="GitHub stats" />
   <br /><br />
   
-  <!-- Streak Stats (URL Baru) -->
   <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hieray-dev&theme=radical" alt="GitHub Profile Summary" />
 </p>
   
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact" alt="Top languages" />
-</div>
-
-###
-
-<!-- Trophy (URL Direct Vercel API) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hieray-dev&theme=dracula" alt="GitHub Profile Trophies" />
 </div>
 
 ###
