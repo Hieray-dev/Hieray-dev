@@ -22,6 +22,12 @@
   <a href="https://wa.me/6289529059256" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
+  
+  <p align="center">
+  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
+</p>
+
 </div>
 
 ###
@@ -32,11 +38,6 @@
   <img src="https://github-readme-stats.shion.dev/api?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true" alt="GitHub stats" />
   <br /><br />
 
-  <p align="center">
-  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
-</p>
-  
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hieray-dev&theme=one_dark_pro&hide_border=false&include_all_commits=true&layout=compact" alt="Top languages" />
 
   <p align="center">
