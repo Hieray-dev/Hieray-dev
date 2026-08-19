@@ -1,40 +1,32 @@
-name: Generate trophy card
+name: Generate Profile Trophy
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: '0 0 * * *' # Berjalan otomatis setiap jam 00:00 UTC
+  workflow_dispatch: # Agar bisa dijalankan manual lewat tombol Actions
 
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
+permissions:
+  contents: write # Memberikan izin menulis file ke repository
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: push trophy.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: trophy-output
-          build_dir: .
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Hieray-dev
+          theme: dracula
+
+      - name: Commit and Push Trophy
+        run: |
+          git config local user.email "action@github.com"
+          git config local user.name "GitHub Action"
+          git add trophy.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile trophies" && git push)
