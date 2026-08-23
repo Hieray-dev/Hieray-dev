@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:3DDC84,100:00A3FF&height=200&text=Hieray-dev%20Al%20Hieray-dev&desc=Backend%20Developer&descAlignY=70&fontColor=FFFFFF&textBg=false&animation=twinkling&fontName=Poppins&fontAlignY=43)
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Hieray-dev&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=AI%20Enthusiast%20%7C%20Backend%20Developer&descSize=20&descAlign=50&descAlignY=66&color=gradient"  />
+</div>
