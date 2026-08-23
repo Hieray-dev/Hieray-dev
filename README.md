@@ -64,3 +64,10 @@ Dedicated to building high-performance backend systems, handling complex data wo
 </p>
 
 ---
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
