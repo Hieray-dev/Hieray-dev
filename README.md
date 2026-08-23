@@ -29,3 +29,27 @@ Dedicated to building high-performance backend systems, handling complex data wo
 - Tooling & Environment: Neovim, VS Code
 - OS: Arch Linux, Windows
 - Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hieray-dev&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hieray-dev&theme=radical" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hieray-dev&theme=radical" alt="Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
+</p>
+
+---
