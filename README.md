@@ -15,7 +15,7 @@
 
 Dedicated to building high-performance backend systems, handling complex data workflows, and ensuring seamless service communication. I spend my time crafting clean architecture and tuning database queries.
 
-*Fun fact: Pretty designs are great, but my favorite view is a clean JSON output*
+*Fun fact: Pretty designs are great, but my favorite view is a clean JSON output.*
 
 ---
 
@@ -23,7 +23,7 @@ Dedicated to building high-performance backend systems, handling complex data wo
 
 **Backend & Systems**
 - Languages: Go, JavaScript (Node.js)
-- Databases: MariaDB (SQL)
+- Databases: MySQL, MariaDB (SQL)
 
 **Current Focus & Learning**
 - Tooling & Environment: Neovim, VS Code
@@ -50,21 +50,13 @@ Dedicated to building high-performance backend systems, handling complex data wo
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=dark&background=00000000&hide_border=true&ring=22d3ee&fire=38bdf8&currStreakNum=e6f7ff&sideNums=e6f7ff&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for Hieray-dev" width="100%" />
+      <img src="./assets/pagespeed.svg" alt="PageSpeed metrics for Hieray-dev" width="100%" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
