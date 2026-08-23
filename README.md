@@ -47,6 +47,25 @@ Dedicated to building high-performance backend systems, handling complex data wo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
 </p>
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=dark&background=00000000&hide_border=true&ring=22d3ee&fire=38bdf8&currStreakNum=e6f7ff&sideNums=e6f7ff&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for Hieray-dev" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
