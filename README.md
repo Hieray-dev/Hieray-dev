@@ -16,3 +16,15 @@
 Dedicated to building high-performance backend systems, handling complex data workflows, and ensuring seamless service communication. I spend my time crafting clean architecture and tuning database queries.
 
 *Fun fact: Pretty designs are great, but my favorite view is a clean JSON output*
+
+---
+
+## Core Competencies
+
+**Backend & Systems**
+- Languages: Go, JavaScript (Node.js)
+- Databases: MariaDB (SQL)
+
+**Current Focus & Learning**
+- Tooling & Environment: Neovim, VS Code
+- OS: Arch Linux, Windows
