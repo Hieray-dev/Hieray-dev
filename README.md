@@ -28,3 +28,4 @@ Dedicated to building high-performance backend systems, handling complex data wo
 **Current Focus & Learning**
 - Tooling & Environment: Neovim, VS Code
 - OS: Arch Linux, Windows
+- Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
