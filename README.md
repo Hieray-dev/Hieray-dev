@@ -4,7 +4,7 @@
   <br />
   <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
 </p>
