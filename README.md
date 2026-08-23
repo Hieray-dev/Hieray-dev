@@ -8,3 +8,11 @@
   <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
 </p>
+
+---
+
+## Profile
+
+Dedicated to building high-performance backend systems, handling complex data workflows, and ensuring seamless service communication. I spend my time crafting clean architecture and tuning database queries.
+
+Fun fact: Pretty designs are great, but my favorite view is a clean JSON output.
