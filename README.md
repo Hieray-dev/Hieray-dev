@@ -44,7 +44,7 @@ Dedicated to building high-performance backend systems, handling complex data wo
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hieray-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <table>
