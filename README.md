@@ -53,7 +53,7 @@ Dedicated to building high-performance backend systems, handling complex data wo
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for Hieray-dev" width="100%" />
+      <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for Hieray-dev" width="100%" />
     </td>
   </tr>
 </table>
