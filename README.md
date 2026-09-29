@@ -1,4 +1,40 @@
 <p align="center">
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Hieray-dev&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Backend%20Developer&descSize=20&descAlign=50&descAlignY=66&color=00d2ff" alt="Header Banner" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+---
+
+## Profile
+
+Dedicated to building high-performance backend systems, handling complex data workflows, and ensuring seamless service communication. I spend my time crafting clean architecture and tuning database queries.
+
+*Fun fact: Pretty designs are great, but my favorite view is a clean JSON output.*
+
+---
+
+## Core Competencies
+
+**Backend & Systems**
+- Languages: Go, JavaScript (Node.js)
+- Databases: MySQL, MariaDB (SQL)
+
+**Current Focus & Learning**
+- Tooling & Environment: Neovim, VS Code
+- OS: Arch Linux, Windows
+- Diagramming: Draw.io (system design, algorithm flow, embedded architecture)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hieray-dev&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
@@ -7,7 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hieray-dev&theme=radical" alt="Languages by Commit" />
 </p>
 
-<!-- Activity Graph yang sudah diperbarui servernya -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
@@ -18,8 +53,7 @@
       <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <!-- GitHub Stats aktif dengan vercel API -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Hieray-dev&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hieray-dev&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -27,4 +61,14 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Hieray-dev?style=social" alt="Stars" />
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
 </p>
