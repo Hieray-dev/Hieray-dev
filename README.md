@@ -1,12 +1,12 @@
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Hieray-dev&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Backend%20Developer&descSize=20&descAlign=50&descAlignY=66&color=00d2ff" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Hieray-dev&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=Backend%20Developer&descSize=20&descAlign=50&descAlignY=66&color=00d2ff" alt="Header Banner" />
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-0d1117?style=flat-square&logoColor=white" alt="Backend Developer" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
 ---
@@ -44,16 +44,16 @@ Dedicated to building high-performance backend systems, handling complex data wo
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/main/metrics.plugin.pagespeed.svg" alt="PageSpeed metrics for Hieray-dev" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Hieray-dev&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -65,9 +65,10 @@ Dedicated to building high-performance backend systems, handling complex data wo
 
 ---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%">
+  </picture>
+</p>
