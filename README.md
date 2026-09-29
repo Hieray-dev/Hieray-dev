@@ -47,9 +47,16 @@ Dedicated to building high-performance backend systems, handling complex data wo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hieray-dev&theme=radical&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Hieray-dev&theme=radical&hide_border=true" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Hieray-dev/Hieray-dev/main/metrics.plugin.pagespeed.svg" alt="PageSpeed Metrics" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hieray-dev?style=social" alt="Followers" />
